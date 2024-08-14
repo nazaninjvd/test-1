@@ -1,0 +1,19 @@
+.header-top{
+    background-color: aqua;
+}
+.div-1{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.div-1 p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.mine{
+    background-color: blue;
+}
+.footer
+{
+    background-color: brown;
+}
